@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+openai
+langchain-openai
+sentence-transformers
+lightrag-hku
+mineru[core]
+Pillow
+pymupdf

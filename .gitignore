@@ -1,0 +1,13 @@
+# AOCopilot_back_AI
+/rag_storage
+logs/
+scripts/data/
+gpt_cache/
+
+# Python cache files
+*.pyc
+__pycache__/
+__output__/
+.mypy_cache/
+.pytest_cache/
+venv/

@@ -1,0 +1,10 @@
+.env
+logs/
+scripts/
+
+*.pyc
+__pycache__/
+__output__/
+.mypy_cache/
+.pytest_cache/
+venv/
